@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Pyramid\Pyramid\bin\Debug\Pyramid.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Pyramid\Pyramid\bin\Debug\Pyramid.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Pyramid\Pyramid\bin\Debug\Pyramid.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Pyramid\Pyramid\obj\Debug\Pyramid.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Pyramid\Pyramid\obj\Debug\Pyramid.pdb
